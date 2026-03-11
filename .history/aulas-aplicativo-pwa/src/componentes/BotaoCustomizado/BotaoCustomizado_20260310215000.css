@@ -1,0 +1,9 @@
+.botao-customizado__root{
+    padding: 16px;
+   border: none;
+   cursor: pointer;
+}
+
+.botao-customizado__primario{
+    background-color: var(--cor);
+}
